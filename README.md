@@ -1,2 +1,2 @@
-# dicodingfesubmisson
-Dicoding FE Submisson 1
+# dicodingfesubmission
+Dicoding FE Submission 1
